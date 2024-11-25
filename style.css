@@ -1,0 +1,49 @@
+/* General Settings */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* White */
+}
+
+/* Header Styles */
+header {
+    background-color: #ADD8E6; /* Light Blue */
+    color: #ffffff;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+header a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Section Styles */
+main section {
+    padding: 20px;
+}
+
+.project-card {
+    border: 1px solid #ff0000; /* Red */
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f0f8ff; /* Light Blue Tint */
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: #ff0000; /* Red */
+    color: #ffffff;
+    padding: 10px;
+}
